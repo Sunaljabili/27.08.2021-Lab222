@@ -1,0 +1,32 @@
+Task 1)
+a)String ücün  SecretBannedWords()  extension method yazin, ona verilen banned sözləri ****-lasin.
+b)BannedWords addinda  istifadesi qadağan olun string array yaradin və  icini müxtəlif sözlərlə doldurun.
+Task 2)
+int ücün  Add(int x) extension method yazin, cağırarkən  ötürülən  rəqəmi üstünə gəlsin.
+
+Task 3)
+Extension method yaziriq, bir string qəbul edir,birde int gelir, 
+verilen eded tekdirse geriye sözü qaytarır, cütdürsə sözə 's əlaye edir qaytarir.
+
+Task 4)
+Qeyd: Asagida Qeyd Olunanlar Bir Tapsiriqa Aiddir.
+
+a)Car Classi yarat.Brand,Model,Color,MaxSpeed-fieldlari yaratmali.
+
+b)Info adli Method yazmali.Return all Information.
+
+c)Bosh Constructor yaratmali "Car Created" - yazdirmali.
+
+d)2 parametr  qebul eden Constructor yazmali.Brand,Model- burada Set olmali.
+
+e)4 paramatrli constructor  yazmali,Brand Model,Color,MaxSpeed - fieldlari set etmeli.
+2 parametr qebul eden  contructoru chagirsin.
+
+f)Bus classi yaradirsiniz.Miras alir Car classindan.PassengerCount 
+fieldi-i olur Bus classinin.
+
+g)Bus class-da Info  override elesin,PassengerCount-da elave olsun info methodunun 
+neticesine elave olsun.
+
+h)Bus Classinda cunstructorunda Car Classini constructorunu cagirmali, Car-dan instance alib obyekt yaratsin.Bus-dan instance alib obyekt yaradin.
+

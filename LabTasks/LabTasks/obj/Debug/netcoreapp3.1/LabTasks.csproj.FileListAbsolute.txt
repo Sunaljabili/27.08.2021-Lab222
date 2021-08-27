@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.exe
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.deps.json
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.runtimeconfig.json
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.runtimeconfig.dev.json
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.dll
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\bin\Debug\netcoreapp3.1\LabTasks.pdb
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\obj\Debug\netcoreapp3.1\LabTasks.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\obj\Debug\netcoreapp3.1\LabTasks.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\obj\Debug\netcoreapp3.1\LabTasks.AssemblyInfo.cs
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\obj\Debug\netcoreapp3.1\LabTasks.dll
+C:\Users\HP\Desktop\P222-LAB\30.07.2021-Lab\LabTasks\LabTasks\obj\Debug\netcoreapp3.1\LabTasks.pdb
